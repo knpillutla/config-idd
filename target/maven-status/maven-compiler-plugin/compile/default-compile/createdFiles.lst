@@ -1,0 +1,3 @@
+com\threedsoft\config\dto\requests\ConfigOverrideDTORequest.class
+com\threedsoft\config\dto\requests\WMSConfigOverrideRequestDTO.class
+com\threedsoft\config\dto\responses\ConfigDTO.class
