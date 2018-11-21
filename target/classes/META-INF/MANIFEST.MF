@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: config-idd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: H309233
+Implementation-Vendor-Id: com.threedsoft.wms
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/config-idd
+Created-By: Maven Integration for Eclipse
+
