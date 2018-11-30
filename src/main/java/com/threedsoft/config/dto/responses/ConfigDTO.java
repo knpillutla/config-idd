@@ -17,12 +17,14 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class ConfigDTO  implements Serializable{
 	Long id;
+	Long wbcId;
 	Long wblcId;
 	String application;
 	String profile;
 	String module;
 	String key;
 	String value;
+	String busOverrideVal;
 	String busLocnOverrideVal;
 	String userId;
 	String comments;
